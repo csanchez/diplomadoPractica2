@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="monsters_types_array">
+        <item>Tipo de monstruos</item>
+        <item>Kaiju</item>
+        <item>Mito</item>
+        <item>Horror espacial</item>
+        <item>Paranormal</item>
+    </string-array>
+</resources>

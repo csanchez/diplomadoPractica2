@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <ImageView
+        android:id="@+id/monsterImage"
+        android:layout_width="92dp"
+        android:layout_height="98dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.05"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/monsterName"
+        android:layout_width="248dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="32dp"
+
+        android:layout_marginTop="32dp"
+        android:text="NOmbre del monstruo"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.54"
+        app:layout_constraintStart_toEndOf="@+id/monsterImage"
+        app:layout_constraintTop_toTopOf="@+id/monsterImage" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

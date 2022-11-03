@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bestiario</string>
+    <string name="welcome">Bienvienido al Bestiario</string>
+    <string name="monsterNameLabel">Nombre del monstruo</string>
+    <string name="monsterOriginLabel">Lugarde origen</string>
+    <string name="monsterTypeLabel">Tipo de mosntruo</string>
+    <string name="monsterDescriptionLabel">Descripción del mosntruo</string>
+
+    <string name="addNewMonster">Agregar al bestiario</string>
+    <string name="saveMonster">Guardar</string>
+    <string name="editMonster">Editar</string>
+    <string name="deleteMonster">Borrar</string>
+    <string name="updateMonster">Actualizar monstruo</string>
+
+    <string name="valor_requerido">Dato requerido</string>
+    <string name="llene_todos_los_datos">Por favor llene todos los campos</string>
+    <string name="indica_tipo_mosntruo">"Por favor indica el tipo de monstruo"</string>
+    <string name="mosntruo_guardado">Monstruo guardado exitosamente</string>
+    <string name="error_guardar">Error al guardar el nuevo monstruo</string>
+    <string name="monstruo_actualizado">Monstruo actuaizado exitosamente</string>
+    <string name="error_aztualizar">Error al actualizar el registro</string>
+    <string name="monstruo_eliminado">Registro eliminado exitosamente</string>
+    <string name="error_eliminar">No se pudo eliminar el registro</string>
+    <string name="confirmar_eliminar">Confirmación</string>
+    <string name="confirmar_eliminar2">¿Realmente deseas eliminar al monstruo?</string>
+    <string name="confirmar_eliminar_ok">Aceptar</string>
+
+
+</resources>
